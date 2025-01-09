@@ -2064,6 +2064,7 @@ dependencies = [
 name = "turbin3rs"
 version = "0.1.0"
 dependencies = [
+ "bs58",
  "solana-sdk",
 ]
 
