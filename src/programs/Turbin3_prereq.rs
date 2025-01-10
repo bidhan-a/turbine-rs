@@ -62,7 +62,7 @@ idlgen!({
   ],
   "accounts": [
     {
-      "name": "PrereqAccount",
+      "name": "SolanaCohort5Account",
       "type": {
         "kind": "struct",
         "fields": [
